@@ -1,0 +1,5 @@
+Waypoint 1: (np.float32(0.125), np.float32(0.375))
+Waypoint 2: (np.float32(0.125), np.float32(4.125))
+Waypoint 3: (np.float32(0.375), np.float32(4.125))
+Waypoint 4: (np.float32(0.375), np.float32(9.875))
+Waypoint 5: (np.float32(9.875), np.float32(9.875))
