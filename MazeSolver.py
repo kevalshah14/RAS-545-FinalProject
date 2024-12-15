@@ -23,7 +23,7 @@ def transform_waypoints(waypoints, homography):
     return transformed_waypoints
 
 # Configuration Parameters
-maze_image_path = 'Captured_Maze_Undistorted.png'  # Updated to use captured image
+maze_image_path = 'Maze/1.png'  # Updated to use captured image
 output_path = 'Solved/Solved_Maze_Centered_Path.png'
 grid_size = 40  # Define the grid resolution (e.g., 40x40)
 cell_size = 10  # Size of each cell in pixels
