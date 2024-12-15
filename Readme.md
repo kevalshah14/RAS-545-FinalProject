@@ -6,42 +6,14 @@ This project involves solving a maze and calibrating a camera for capturing and 
 
 ```
 .DS_Store
-
-
 calibrate.py
-
-
-
-
 camera_matrix.npy
-
-
-
-
 captureMaze.py
-
-
-
-
 dist_coeffs.npy
-
-
-
-
 IKSolver.m
-
-
 Maze/
-
-
 MazeSolver.py
-
-
-
-
 mazeSolverV2.py
-
-
 mycobot_pro_600/
     .DS_Store
     base.stl
@@ -51,22 +23,10 @@ mycobot_pro_600/
     link4.stl
     link5.stl
     link6.stl
-    
-
 mycobot_pro_600.urdf
-
-
-
-
 Readme.md
-
-
 Solved/
-    
-
 Real_World_Waypoints.txt
-
-
 ```
 
 ## Files and Directories
@@ -117,4 +77,3 @@ Real_World_Waypoints.txt
 ## License
 
 This project is licensed under the MIT License.
-```
